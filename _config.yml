@@ -8,9 +8,9 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Transform Forward
-tagline: The personal site for Chris Hayward
-author :
+title : transform.forward
+tagline: The blog for Chris Hayward
+author : Chris Hayward
   name : Chris Hayward
   email : chris.f.hayward@gmail.com
   github : ellji
