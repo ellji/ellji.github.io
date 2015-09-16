@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transform Forward
+title: transform.forward
 tagline: The blog of Chris Hayward
 ---
 {% include JB/setup %}
