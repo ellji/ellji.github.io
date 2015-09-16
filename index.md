@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Transform Forward
+tagline: The blog of Chris Hayward
 ---
 {% include JB/setup %}
 
