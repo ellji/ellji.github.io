@@ -1,7 +1,7 @@
 ---
 layout: page
 title: transform.forward
-tagline: - Chris Hayward
+tagline: \- Chris Hayward
 ---
 {% include JB/setup %}
 
