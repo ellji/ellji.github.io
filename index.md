@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Transform.Forward
-tagline: - Chris Hayward
+title: Hello World!
+tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
