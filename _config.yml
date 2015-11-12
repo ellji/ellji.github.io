@@ -18,5 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
+twitter:
+  handle:         https://twitter.com/ellji
 github:
   repo:           https://github.com/ellji/
