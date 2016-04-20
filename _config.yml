@@ -1,5 +1,6 @@
 # Dependencies
-markdown:         redcarpet
+# github has deprecated redcarpet as a markdown engine
+# markdown:         redcarpet 
 pygments:         true
 
 # Permalinks
