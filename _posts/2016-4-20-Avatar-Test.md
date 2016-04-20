@@ -5,4 +5,4 @@ title: Avatar Image test
 
 Testing an image upload.
 
-![Avatar](/images/avatar.png)
+![Avatar](/_posts/images/avatar.png)
