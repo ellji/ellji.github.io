@@ -1,7 +1,7 @@
 # Dependencies
 # github has deprecated redcarpet as a markdown engin
 markdown:         kramdown
-pygments:         true
+pygments:         false
 
 # Permalinks
 permalink:        pretty
