@@ -2,7 +2,7 @@
 layout: post
 title: Indies: Stop making fangames, it's bad for the industry, and it's bad for you.
 ---
-![Cat Freaking Out](https://raw.githubusercontent.com/ellji/ellji.github.io/master/public/images/cat_freaking_out.jpg, "Cat, after recieving a Cease and Desist.")
+![Cat, after recieving a Cease and Desist](https://raw.githubusercontent.com/ellji/ellji.github.io/master/public/images/cat_freaking_out.jpg)
 
 This is a formalised version of the twitter thread I posted here:
 
