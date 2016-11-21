@@ -46,3 +46,5 @@ Make something on your own terms.
 If you want to, make something and **get paid while doing it**.
 
 Who knows, maybe you'll get hired to work on that thing you love.
+
+Maybe by that point you won't want to.
