@@ -35,6 +35,12 @@ So, what is the right idea? What should you do if you love a franchise like Metr
 
 Do what [Toby Fox did](http://undertale.com/), take the idea (Earthbound, for reference) and run with it. Make something insane. Make something unique. Expand the genre and make it better. Do it on your own terms.
 
-Make something so amazing that Nintendo can't ignore the demand. Make something that makes the creator break out in a sweat that they didn't think of that game mechanic.
+Make something so amazing that Nintendo can't ignore the demand. 
+
+Make something that makes the creator break out in a sweat that they didn't think of that game mechanic.
+
+Make something that makes the original games look like ancient artefacts, best left undisturbed.
 
 Make something on your own terms, and if you want to, **get paid while doing it**.
+
+Forget everything else, you owe it to yourself. Who knows, maybe you'll get hired to work on that thing you love.
