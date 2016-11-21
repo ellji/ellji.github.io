@@ -41,6 +41,8 @@ Make something that makes the creator break out in a sweat that they didn't thin
 
 Make something that makes the original games look like ancient artefacts, best left undisturbed.
 
-Make something on your own terms, and if you want to, **get paid while doing it**.
+Make something on your own terms.
 
-Forget everything else, you owe it to yourself. Who knows, maybe you'll get hired to work on that thing you love.
+If you want to, make something and **get paid while doing it**.
+
+Who knows, maybe you'll get hired to work on that thing you love.
