@@ -2,7 +2,7 @@
 layout: post
 title: Why you should consider playing Destiny 2
 ---
-<img src="https://raw.githubusercontent.com/ellji/ellji.github.io/master/public/images/destiny2_teal.jpg" width="80%" alt="One of the many alien environments of Destiny 2." />
+<img src="https://raw.githubusercontent.com/ellji/ellji.github.io/master/public/images/destiny2_teal.jpg" width="90%" alt="One of the many alien environments of Destiny 2." />
 *One of the many alien environments of Destiny 2.*
 
 It's fairly well known that I'm a massive Destiny tragic. A friend recently asked me if it was worth considering Destiny 2. They were originally interesting in Destiny, but since it was console-only they were quickly turned off. However, things changed when it was announced that Destiny 2 was coming to PC.
