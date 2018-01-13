@@ -21,7 +21,7 @@ Then I forgot I followed the mods of the main sub on twitter.
 
 So the main subreddit mods were having a little congratulatory twitter round over the fact that they had reached the 500k subscriber mark. Me, being my usual irascable self, *may* have subtweeted this in a sort of response:
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">tempted to tweet at the main destiny subreddit mods &quot;yeah, you got 500k subscribers, but when are you going to do something about the fact that y&#39;all are salty bastards&quot;</p>&mdash; Chris Hayward (@ellji) <a href="https://twitter.com/ellji/status/951610507726696448?ref_src=twsrc%5Etfw">January 12, 2018</a></blockquote>
+<center><blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">tempted to tweet at the main destiny subreddit mods &quot;yeah, you got 500k subscribers, but when are you going to do something about the fact that y&#39;all are salty bastards&quot;</p>&mdash; Chris Hayward (@ellji) <a href="https://twitter.com/ellji/status/951610507726696448?ref_src=twsrc%5Etfw">January 12, 2018</a></blockquote></center>
 
 And a couple of days later, I got this reply from one of the mods (god I hate people who scan the timeline for relevant terms) and roundly 'liked' by the rest of them:
 
