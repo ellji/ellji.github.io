@@ -42,3 +42,5 @@ And so here is the response I'm not going to write:
 ***sigh***
 
 One day I might be able to skip this step.
+
+I'ma go back to playing Destiny 2 now.
