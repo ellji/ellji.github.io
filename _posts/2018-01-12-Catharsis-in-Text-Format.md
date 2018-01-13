@@ -31,11 +31,11 @@ Which drove me into a goddamn rage; not because of the reply itself (well, that 
 
 And so here is the response I'm not going to write:
 
-## Diplomatic Version:
+#### Diplomatic Version:
 
 > This is why I left r/destinythegame, as we have a difference of opinion about how a community should be managed, and that is your community, so I left for greener pastures.
 
-## Not so Diplomatic Version:
+#### Not so Diplomatic Version:
 
 > It's not a binary choice - there are places inbetween those two options that mean that your community doesn't spill it's salt bags all over the place. You can contain and control, and direct discussion to more fruitful places. Your sub is not a healthy community - and one of the reasons why I snarked in the first place is that you might have reached your 500k milestone sooner if this all hadn't happened. I know that Bungie hasn't exactly made your lives easy, and this isn't a paying job, but you have put yourself in a position of stewardship over the direction over a very large community and I feel that you have done them a massive disservice. I feel that you have done *me* a massive disservice, and that is why I have left.
 
