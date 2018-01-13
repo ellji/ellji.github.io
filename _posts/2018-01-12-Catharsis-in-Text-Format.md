@@ -7,7 +7,7 @@ title: Catharsis in Text Format
 
 It would be a slight understatement to say that the community for Destiny 2 has been underwhelmed by the game's total package. While I personally am relatively happy with the game's offerings, there are both major and minor ... oversights ... that can restrict the enjoyablility for some. (The precise details of which is outside the scope of this article)
 
-The big issue with this, as far as I'm concerned, that the internet has a really bad habit of taking problems with something and blowing it widely out of proportion with a melodrama lens that would make Shakespear lean back and go "geeze, tone it down, would you?". Net result being, the major subreddit for Destiny (and pretty much Destiny's first point of call for the online community) becoming somewhat akin to a "Toxic Hellstew". The whole place just became an incredible self-feeding feedback loop of negativity and ... salt ... and it just wasn't fun anymore.
+The big issue with this, as far as I'm concerned, that the internet has a really bad habit of taking problems with something and blowing it widely out of proportion with a melodrama lens that would make Shakespeare lean back and go "geeze, tone it down, would you?". Net result being, the major subreddit for Destiny (and pretty much Destiny's first point of call for the online community) becoming somewhat akin to a "Toxic Hellstew". The whole place just became an incredible self-feeding feedback loop of negativity and ... salt ... and it just wasn't fun anymore.
 
 ### So what did you do?
 
