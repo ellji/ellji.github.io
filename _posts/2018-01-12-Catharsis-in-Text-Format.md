@@ -39,8 +39,10 @@ And so here is the response I'm not going to write:
 
 > It's not a binary choice - there are places inbetween those two options that mean that your community doesn't spill it's salt bags all over the place. You can contain and control, and direct discussion to more fruitful places. Your sub is not a healthy community - and one of the reasons why I snarked in the first place is that you might have reached your 500k milestone sooner if this all hadn't happened. I know that Bungie hasn't exactly made your lives easy, and this isn't a paying job, but you have put yourself in a position of stewardship over the direction over a very large community and I feel that you have done them a massive disservice. I feel that you have done *me* a massive disservice, and that is why I have left.
 
-***sigh***
+***sigh.***
 
 One day I might be able to skip this step.
+
+So I wrote a thing. I wrote *this* thing. It's the digital equivalent of yelling into the void. My ego won't let me write anything and not try to show this to anyone, so I'll post it to facebook at 1:30 in the morning where nobody will really see it.
 
 I'ma go back to playing Destiny 2 now.
