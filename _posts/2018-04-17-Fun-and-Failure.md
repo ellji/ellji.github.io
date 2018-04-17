@@ -8,7 +8,7 @@ title: Far Cry 5 - Fun and Failure
 I’ve finished the main storyline of Far Cry 5, and I Now Have Opinions about it. 
 
 ## WARNING 
-*Spoilers about the plot INCLUDING THE ENDINGS of Far Cry 5 below. (and the previous Far Cry games as well)*
+*Spoilers about the plot INCLUDING THE ENDING of Far Cry 5 below. (and the previous Far Cry games as well)*
 
 <br/>
 <br/>
