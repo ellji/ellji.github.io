@@ -17,11 +17,16 @@ I’ve finished the main storyline of Far Cry 5, and I Now Have Opinions about i
 <br/>
 <br/>
 
-You've been warned. Despite the following, I still recommend playing Far Cry 5, and you would be better off playing it spoiler free. The gun play is fast and fun, the flexibility of the sandbox is unparallelled, and it's some of the most fun I've had this year yet. The fact that I've written this much about the issues I have with it should say something about the game and what it does.
+You've been warned. Despite the following, I still recommend playing Far Cry 5, and you would be better off playing it spoiler free. The gun play is fast and fun, the flexibility of the sandbox is unparallelled, and it's some of the most fun I've had this year yet. The fact that I've written this much about the issues I have with it should say something about the game and what it does.s
 
 <br/>
 <br/>
-But...
+However...
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
