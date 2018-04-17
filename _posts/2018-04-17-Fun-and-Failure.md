@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Far Cry 5: Fun and Failure
+title: Far Cry 5 - Fun and Failure
 ---
 <img src="https://i.imgur.com/ivnpOTI.png" width="100%" alt="The best boy." />
 *The best boy.*
