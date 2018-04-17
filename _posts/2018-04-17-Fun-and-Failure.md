@@ -10,17 +10,19 @@ I’ve finished the main storyline of Far Cry 5, and I Now Have Opinions about i
 ## WARNING 
 *Spoilers about the plot of Far Cry 5 below. (and the previous Far Cry games as well)*
 
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 You've been warned.
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 So the main story of the game is about you, the Deputy Sheriff that was part of a group that came to arrest the leader of a cult called ‘Eden’s Gate’. In the attempt to arrest the leader Joseph Seed, his fanatical followers cause your helicopter to crash, capture the rest of your crew, and you get rescued by an old man in a bunker on an island that is a) conveniently in the middle of the map and b) right next to the evil guy’s island.
 
@@ -58,7 +60,9 @@ The plot of Far Cry 5 ruins Far Cry 5. The game doesn’t know what it wants to 
 
 The quest giver and support characters have a handful of missions each to establish them, and then the game dumps them for the next set with very little interplay between them. The majority of the character investment sits with villians, giving them big lengthy monologues, and your silent protagonist sits there, saying nothing.  I had to start my own commentary back at them, and there were so many moments in the game where all I wanted was for my character to tell them to shut the fuck up.
 
-When I finally killed John Seed, it unsatisfyingly happened in a cutscene and I was left standing in a random intersection in front of his body. It’s a testament to the writing of his character that the next thing I did was pile every explosive device I had on his body and set the whole damn thing ablaze. I was severely pissed off when the game robbed me of the chance to do the same thing to Faith.
+When I finally killed John Seed, it unsatisfyingly happened in a cutscene and I was left standing in a random intersection in front of his body. It’s a testament to the writing of his character that the next thing I did was pile every explosive device I had on his body and set the whole damn thing ablaze. I was severely pissed off when the game robbed me of the chance to do the same thing to Faith, and by the time I got to Jacob I was pretty much worn out of the game doing that to me that I just wanted the whole thing to be over.
+
+I should have seen it coming.
 
 Maybe it’s the psychopath in me, maybe I’m just too conditioned to games, and maybe I sound like a giant neckbeard, but I say this to the writer of Far Cry 5:
 
