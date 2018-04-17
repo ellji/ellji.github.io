@@ -10,6 +10,18 @@ I’ve finished the main storyline of Far Cry 5, and I Now Have Opinions about i
 ## WARNING 
 *Spoilers about the plot of Far Cry 5 below. (and the previous Far Cry games as well)*
 
+
+
+
+
+
+
+
+
+
+
+You've been warned.
+
 So the main story of the game is about you, the Deputy Sheriff that was part of a group that came to arrest the leader of a cult called ‘Eden’s Gate’. In the attempt to arrest the leader Joseph Seed, his fanatical followers cause your helicopter to crash, capture the rest of your crew, and you get rescued by an old man in a bunker on an island that is a) conveniently in the middle of the map and b) right next to the evil guy’s island.
 
 The cult, called “Peggies” because they’re part of Project Eden’s Gate (PEG), have taken over the three parts of Hope County, and have begun actively killing, kidnapping, looting and generally causing hell for the residents of the area.
