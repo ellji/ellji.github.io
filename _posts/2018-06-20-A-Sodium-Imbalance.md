@@ -2,7 +2,7 @@
 layout: post
 title: A Sodium Imbalance
 ---
-<img src="https://i.imgur.com/16jtB32.png" width="100%" alt="Totally Fair Matchmaking." />
+<img src="https://i.imgur.com/qqPZeXt.png" width="100%" alt="Totally Fair Matchmaking." />
 *Totally Fair Matchmaking.*
 
 Anyone that pays attention to my twitter would be well aware when I'm trying to play Competitive crucible in Destiny 2, mostly because of my complaining about being constantly matched against full sweaty four-stacks when I'm running solo. A question about this came up on the Crucible Radio podcast:
