@@ -19,4 +19,15 @@ It doesn't feel fair, it doesn't feel competitive, it feels like I'm actively be
 
 Come on, let me play the way I want to. You seem to want to let everyone else play they way they want to.
 
+I'm going to summarise this in a community feedback / bug report sort of way:
+
+#### I have an issue with:
+When I play competitive as a solo player and a team of random players that include me get matched up against a fireteam of four organised players.
+#### How it makes me feel:
+Frustrated, as if the game itself doesn't want to provide a fair or winnable match.
+#### How frequently does it happen:
+It feels like pretty much every game in the Competitive playlist. It is rare for it not to happen.
+#### My suggested fix:
+It's competitive, so I don't see a problem with if you run a full fireteam, the matchmaker should only match you against other full fireteams. That, or a Competitive Solo playlist.
+
 PS: Let Valor get earned in any playlist, including Iron Banner. At least that way I can progress towards *something* while geting my butt handed to me.
