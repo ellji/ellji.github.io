@@ -29,5 +29,5 @@ Frustrated, as if the game itself doesn't want to provide a fair or winnable mat
 It feels like pretty much every game in the Competitive playlist. It is rare for it not to happen.
 ### My suggested fix:
 It's competitive, so I don't see a problem with if you run a full fireteam, the matchmaker should only match you against other full fireteams. That, or a Competitive Solo playlist.
-
+<br/><br/>
 PS: Let Valor get earned in any playlist, including Iron Banner. At least that way I can progress towards *something* while geting my butt handed to me.
