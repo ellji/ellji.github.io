@@ -2,7 +2,7 @@
 layout: post
 title: Destiny 2 is an ARG
 ---
-<img src="./public/images/waiting_for_bees.jpg" width="100%" alt="It's still there, isn't it?" />
+<img src="../public/images/waiting_for_bees.jpg" width="100%" alt="It's still there, isn't it?" />
 *Chilling out, listening to a podcast.*
 
 In 2004, Bungie released an Alternate Reality Game (ARG) to help promote Halo 2's release called "I Love Bees". The game involved players interacting with a website to recieve GPS coordinates to go to specific locations and answer payphone calls to uncover more of the story. While some of the ARG's contents is still available to people - <a href="www.ilovebees.co">ilovebees.co</a> is still online and you can still listen to the rather good radio drama - a lot of the ongoing plot was transient. The experience of playing the game isn't available anymore except through other people conveying what the game was and what happened.
