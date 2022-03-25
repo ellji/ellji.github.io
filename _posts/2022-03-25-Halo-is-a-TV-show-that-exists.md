@@ -23,7 +23,7 @@ The first episode of the very long awaited Halo(tm) show is out, and I have some
 - This is NOT FUCKING KEYES EITHER.
 - Okay John has a joke that’s actually kind of funny.
 - Why did they write the UNSC as complete bastards?
-- Even parangosky isn’t really right.
+- Even Parangosky isn’t really right.
 - Hey a suitup sequence, nice.
 - Why do they keep calling a Pelican a Condor? (*looks it up*, oh, a Condor is a long range Pelican.)
 <br><br>
