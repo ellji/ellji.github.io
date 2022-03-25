@@ -12,15 +12,15 @@ The first episode of the very long awaited Halo(tm) show is out, and I have some
 ***Spoilers Ahead.***
 
 - Sound and special FX are fairly accurate to the games, which is nice.
-- Why do guns that do nothing to covenant are automagically more powerful once a Spartan holds them?
-- What the fuck is up with the elite's armour, it's worse than Halo 5.
+- Why are guns that do nothing to Covenant become automagically more powerful once a Spartan holds them?
+- What the fuck is up with the Elite's armour, it's worse than the Halo 5 designs.
 - Never trust Bern Gorman.
-- Elites are dumb as fuck hey there’s these four Spartans killing everything better try to kill a girl under a truck instead.
+- Elites are dumb as fuck; "Hey there’s these four Spartans killing everything I'm going to ignore them and try to kill a girl under a truck instead".
 - That’s not Halsey's character in the slightest.
 - High Charity looks like a goddamn mushroom.
 - This is also not Miranda Keyes.
 - Oh god whenever John talks or walks my subwoofer goes nuts.
-- This is NOT FUCKING KEYES EITHER.
+- This is NOT FUCKING JACOB KEYES EITHER.
 - Okay John has a joke that’s actually kind of funny.
 - Why did they write the UNSC as complete bastards?
 - Even Parangosky isn’t really right.
