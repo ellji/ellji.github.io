@@ -11,10 +11,12 @@ The first episode of the very long awaited Halo(tm) show is out, and I have some
 
 ***Spoilers Ahead.***
 
+- Never trust Burn Gorman.
+- This show definately isn't trying to get down to an M rating.
 - Sound and special FX are fairly accurate to the games, which is nice.
 - Why do guns that have no effect on Covenant Elites become automagically more powerful once a Spartan holds them?
 - What the fuck is up with the Elite's armour, it's worse than the Halo 5 designs.
-- Never trust Bern Gorman.
+- Never trust Burn Gorman.
 - Elites are dumb as fuck; "Hey there’s these four Spartans killing everything I'm going to ignore them and try to kill a girl under a truck instead".
 - That’s not Halsey's character in the slightest. (Game Halsey: *"Fuck you I do what I want."* Show Halsey: *"Yes maam, I am your faithful servant who does whatever I want but secretly"*)
 - High Charity looks like a goddamn mushroom.
