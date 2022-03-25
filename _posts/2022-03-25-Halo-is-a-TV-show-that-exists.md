@@ -12,7 +12,7 @@ The first episode of the very long awaited Halo(tm) show is out, and I have some
 ***Spoilers Ahead.***
 
 - Sound and special FX are fairly accurate to the games, which is nice.
-- Why are guns that do nothing to Covenant become automagically more powerful once a Spartan holds them?
+- Why do guns that have no effect on Covenant Elites become automagically more powerful once a Spartan holds them?
 - What the fuck is up with the Elite's armour, it's worse than the Halo 5 designs.
 - Never trust Bern Gorman.
 - Elites are dumb as fuck; "Hey there’s these four Spartans killing everything I'm going to ignore them and try to kill a girl under a truck instead".
