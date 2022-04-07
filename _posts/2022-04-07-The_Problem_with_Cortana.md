@@ -15,8 +15,8 @@ Episode 3: ***Spoilers Ahead.***
 
 Okay, so there's a few severe changes to the Halo canon that I really don't like. It mostly comprises of two things:
 
-1) They wiped John's memories as a child when they conscripted him, and
-2) The entire way AIs work.
+1. They wiped John's memories as a child when they conscripted him, and,
+2. The entire way AIs work.
 
 So, let's start with John. In the show, they wiped his memories before the age of six - before they conscripted him into the Spartan program. It's not outright stated why they did this, but it's pretty clear that they - the Office of Naval Intelligence (ONI), and Halsey - are afraid that if the Spartans knew who they used to be they wouldn't want to be Spartans anymore. In proper canon, the Spartans are effectively brainwashed into being soldiers by dint of being trained from the age of 6, but they *do* remember everything. In the novel *The Fall of Reach*, the topic of erasing memories is briefly discussed but immediately dismissed by Halsey, stating about targeted amnesia "*A memory loss that may leak into other parts of the brain. No, this will be dangerous enough for them even with intact minds.*"
 
