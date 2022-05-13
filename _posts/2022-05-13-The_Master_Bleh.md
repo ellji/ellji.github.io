@@ -8,9 +8,9 @@ title: The Master Bleh
 *Kai can stay though, she's great.*
 <br><br>
 
-Episodes 4-6: Meh. Decent Covenant battle though. Jack-yap stole the show.
+Episodes 4-6: Meh. Decent Covenant battle though. Jack-yap stole the show, and then lost it immediately.
 
-Episode 7: We knew this was coming, and it's as bad as we thought it would be. At least we get an explosion.
+Episode 7: I knew this was coming, and it's as bad as I thought it would be. At least we got an explosion.
 
 Episode 8:
 
