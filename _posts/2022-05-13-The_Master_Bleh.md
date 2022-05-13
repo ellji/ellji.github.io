@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bleh
+title: The Master Bleh
 ---
 
 <img src="https://raw.githubusercontent.com/ellji/ellji.github.io/master/public/images/kai_can_stay.jpg" width="100%" alt="It's a bum rap." />
@@ -18,3 +18,5 @@ Episode 8:
 2. That's pretty on-brand for Halsey, but she's normally more subtle about it.
 3. Cortana has significantly redeemed herself over the last few episodes, in no small part due to Jen Taylor carrying the whole shebang on her back.
 4. *What the fuck*.
+
+ps: *Reach City, Planet Reach?* What the hell happened to *New Alexandria*?
