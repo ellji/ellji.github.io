@@ -2,7 +2,7 @@
 layout: post
 title: Oh, we're here again?
 ---
-<img src="https://raw.githubusercontent.com/ellji/ellji.github.io/master/public/images/destiny_first_time.jpg" width=100% alt="Another go 'round the merry-go-round..." />
+<img src="https://raw.githubusercontent.com/ellji/ellji.github.io/master/public/images/destiny_first_time.jpg" width=100% alt="Another go round the merry-go-round..." />
 
 *Another go 'round the merry-go-round...*
 <br><br>
